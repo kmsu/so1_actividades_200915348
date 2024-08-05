@@ -1,0 +1,9 @@
+En la imagen Notas.png
+
+* Se usa si no se crea el directorio home al crear el usuario.
+otra forma es que al crearlo usar useradd -m userName, esto creara el directorio home
+de una vez.
+
+* sudo userod -aG sudo usuario2
+    Se usa para agregar al usuario al grupo de sudo, es decir, usuarios
+    que puden dar permisos de usuario root. Usar solo si se necesita
