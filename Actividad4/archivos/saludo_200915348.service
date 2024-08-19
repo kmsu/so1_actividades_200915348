@@ -1,0 +1,11 @@
+[Unit]
+Description=Actividad No 4 del curso Sistemas Operativos 2S2024
+
+[Service]
+ExecStart=/home/kevin/saludo.sh            
+Restart=always
+IgnoreSIGPIPE=no
+
+[Install]
+Alias=saludo.service
+
