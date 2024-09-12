@@ -7,8 +7,8 @@
 
 ## Contenido
 - [Parte 1: Gestión de Usuarios](#usuarios)
-- [Parte 2: Gestión de Usuarios](#grupos)
-- [Parte 3: Gestión de Usuarios](#permisos)
+- [Parte 2: Gestión de Grupos](#grupos)
+- [Parte 3: Gestión de Permisos](#permisos)
 - [Reflexión](#reflexion)
 
 ---
