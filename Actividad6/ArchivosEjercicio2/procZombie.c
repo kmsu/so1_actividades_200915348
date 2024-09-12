@@ -22,7 +22,7 @@ int main(){
         printf("Proceso padre, el proceso hijo ya termino pero aun no lo recojere\n");
 
         //dormir para observar el proceso zombi
-        sleep(30);
+        sleep(60);
 
         /* parent will wait for the child to complete */ //el proceso padre finalmente recoje al proceso hijo
         wait(NULL);
